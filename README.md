@@ -1,1 +1,1 @@
-# k34202_kachmazov-arthur_network-programming
+# 2022_2023-network_programming-k34202-kachmazov_a_a
