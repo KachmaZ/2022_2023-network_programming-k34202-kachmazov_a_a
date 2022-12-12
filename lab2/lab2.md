@@ -45,7 +45,8 @@ Winbox работу с ключами (Рис. 4)
 для каждого из них создан набор переменных.
   
 *Рисунок 5* - hosts.ini  
-![image](https://user-images.githubusercontent.com/59313334/206266698-4da5baf4-2e12-4142-93f4-90e124aa86f1.png)
+![photo_2022-12-03_22-00-03](https://user-images.githubusercontent.com/59313334/207125179-8120f03d-512e-41cc-871c-a8f8cb962aa7.jpg)
+
 4) Файл playbook.yml
 После настройки Ansible создан файл сценария playbook.yml (Рис. 6). Для написания управляющих команд использован модуль `community.routeros.command`, предназначенный
 для управления машинами с операционной системой Router OS.  
