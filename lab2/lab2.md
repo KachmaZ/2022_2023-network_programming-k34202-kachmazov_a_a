@@ -14,7 +14,7 @@ Lab: Lab2
 
 Date of create: 06.12.2022
 
-Date of finished:
+Date of finished: 08.12.2022
 
 **Тема работы:** Развертывание дополнительного CHR, первый сценарий Ansible
 
