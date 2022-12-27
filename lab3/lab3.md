@@ -14,7 +14,7 @@ Lab: Lab3
 
 Date of create: 06.12.2022
 
-Date of finished:
+Date of finished: 27.12.2022
 
 # Тема работы: 
 Развертывание Netbox, сеть связи как источник правды в системе технического учета Netbox
