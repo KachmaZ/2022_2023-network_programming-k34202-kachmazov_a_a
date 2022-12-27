@@ -74,7 +74,7 @@ Date of finished:
   ### Nginx Web Server
   
   Был установлен и сконфигурирован веб-сервер Nginx (Рис. 5).  
-  ![image](https://user-images.githubusercontent.com/59313334/209577649-142056d8-6316-4f0a-8da9-f42b76366c58.png)  
+  ![207989501-0314fdd9-dd8c-4079-80e8-cbd693186df8](https://user-images.githubusercontent.com/59313334/209625405-26fe4207-4a5b-4ce4-bb49-ca6c300daf81.png)  
   Рисунок 5 - Конфигурация веб-сервера
 
   По итогу был получен рабочий сетевой сервис Netbox (Рис. 6).
